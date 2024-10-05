@@ -27,11 +27,3 @@ This is a simple **Task Manager** application built with an **Angular frontend**
 | │   └── `main.ts`                             | Angular entry point                              |
 | └── `README.md`                               | Project documentation                            |
 
-## How to Run
-
-### Backend (Node.js)
-
-1. Navigate to the `backend/` directory:
-
-   ```bash
-   cd backend
